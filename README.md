@@ -1,5 +1,7 @@
 # Stream Clips: a free AI clipping skill
 
+**Creator:** Yuvraj
+
 Give it a topic ("GTA 6", "Valorant", "Fortnite", "chess", a podcast...) or a few stream links.
 It finds the biggest streams, listens to every minute, and an AI picks the moments most likely
 to go viral. You get ready-to-post vertical clips: facecam on top, gameplay below, a title bar,
