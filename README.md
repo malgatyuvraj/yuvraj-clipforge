@@ -1,4 +1,4 @@
-# Stream Clips: a free AI clipping skill
+# clip forge: a free AI clipping skill
 
 **Creator:** Yuvraj
 
